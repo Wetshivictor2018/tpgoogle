@@ -160,92 +160,42 @@ body
     color: black;
 }
 
-.c93Gbe {
+.footerLine {
       background: #f2f2f2;
       position: absolute;
       width: 100%;
       bottom: 0;
     }
 
-    .uU7dJb {
+    .footerLine1 {
       padding: 15px 30px;
       border-bottom: 1px solid #dadce0;
       font-size: 15px;
       color: #70757a
     }
 
-    .SSwjIe {
+    .footerLine22 {
       padding: 0 20px
     }
 
-    .KxwPGc {
+    .footerLine2 {
       display: flex;
       flex-wrap: wrap;
       justify-content: space-between
     }
 
     @media only screen and (max-width:1200px) {
-      .KxwPGc {
+      .footerLine2 {
         justify-content: space-evenly
       }
     }
 
-    .pHiOh {
+    .footerAdjust {
       display: block;
       padding: 15px;
       white-space: nowrap
     }
 
-    a.pHiOh {
+    a.footerAdjust {
       color: #70757a
-    }
-
-    .ayzqOc {
-      position: relative
-    }
-
-    .EzVRq {
-      display: block;
-      padding: 15px;
-      white-space: nowrap
-    }
-
-    a.EzVRq,
-    button.EzVRq {
-      color: #70757a
-    }
-
-    button.EzVRq {
-      cursor: pointer;
-      width: 100%;
-      text-align: left
-    }
-
-    button.EzVRq:hover,
-    button.EzVRq:active {
-      text-decoration: underline
-    }
-
-    .Qff0zd {
-      display: none;
-      position: absolute;
-      list-style: none;
-      background: #fff;
-      border: 1px solid #70757a
-    }
-
-    .Qff0zd {
-      min-width: 200px
-    }
-
-    .mRoO9c {
-      display: block;
-      border-top: 1px solid #ebebeb
-    }
-
-    .pENqnf {
-      color: #70757a;
-      cursor: pointer;
-      padding-bottom: 10px;
-      padding-top: 10px
     }
